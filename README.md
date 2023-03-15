@@ -1,5 +1,5 @@
 # Data-Quality-Checks
-Inludes basic, intermediate and advanced data quality checks with many matching busines rules
+Inludes basic, intermediate and advanced data quality checks with matching busines rules
 
 Basic checks that don't require aggregation or joins like:  
 - Not Empty
