@@ -1,6 +1,9 @@
 # Data-Quality-Checks
 Inludes basic, intermediate and advanced data quality checks with matching busines rules
 
+Data - Credit Card Fraud Detection : 
+https://github.com/CapitalOneRecruiting/DS
+
 Basic checks that don't require aggregation or joins like:  
 - Not Empty
 - Not Null Column
